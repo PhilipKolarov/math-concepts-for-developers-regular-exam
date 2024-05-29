@@ -20,3 +20,6 @@ CREATE TABLE [Demographics](
 	,[Net Reproduction Rate] DECIMAL (3, 2)
 	,[Infant Mortality Rate] DECIMAL (4, 2)
 );
+
+ALTER TABLE [Demographics]
+ADD [Mean Age of Childbearing] DECIMAL (4, 2)
