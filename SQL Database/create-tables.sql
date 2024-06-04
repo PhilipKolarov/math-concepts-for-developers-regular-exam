@@ -23,3 +23,17 @@ CREATE TABLE [Demographics](
 
 ALTER TABLE [Demographics]
 ADD [Mean Age of Childbearing] DECIMAL (4, 2)
+
+CREATE TABLE [Age of Childbearing](
+	Id INT PRIMARY KEY IDENTITY
+	,[YearId] SMALLINT FOREIGN KEY REFERENCES Years(Id) NOT NULL
+	,[Total] INT
+	,[Under 20] INT
+	,[20-24] INT
+	,[25-29] INT
+	,[30-34] INT
+	,[35-39] INT
+	,[40-44] INT
+	,[Over 45] INT
+	,[Unknown] INT
+);
