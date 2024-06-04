@@ -2,3 +2,4 @@
 
 Subject: Demographics of Bulgaria
 Research Question: Can one make a more precise calculation of Bulgaria's replacement fertiltiy level?
+Pending: Jupyter Notebook, Power BI Visualizations, Adeqaute Bibliography/Citations
