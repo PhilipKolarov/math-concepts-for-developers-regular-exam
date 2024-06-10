@@ -17,3 +17,16 @@ https://www.nsi.bg/en/content/2965/live-births-districts-municipalities-and-moth
 https://www.birthgap.org/spaces/10499767/page
 
 https://www.nsi.bg/en/content/2965/live-births-districts-municipalities-and-mother%E2%80%99s-age
+
+Definitions:
+https://databank.worldbank.org/metadataglossary/population-estimates-and-projections/series/SM.POP.NETM
+
+https://data.oecd.org/pop/population.htm#:~:text=This%20indicator%20shows%20the%20number%20of%20people%20that,births%2C%20deaths%20and%20net%20migration%20during%20the%20year.
+
+https://ourworldindata.org/life-expectancy
+
+https://www.who.int/data/gho/indicator-metadata-registry/imr-details/1
+
+https://data.oecd.org/pop/fertility-rates.htm
+
+https://www.oecd.org/els/soc/SF_2_3_Age_mothers_childbirth.pdf
