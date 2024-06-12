@@ -37,3 +37,11 @@ CREATE TABLE [Age of Childbearing](
 	,[Over 45] INT
 	,[Unknown] INT
 );
+
+CREATE TABLE [Boys and Girls Births](
+	Id INT PRIMARY KEY IDENTITY
+	,[YearId] SMALLINT FOREIGN KEY REFERENCES Years(Id) NOT NULL
+	,[Total Births] INT
+	,[Boys] INT
+	,[Girls] INT
+);
