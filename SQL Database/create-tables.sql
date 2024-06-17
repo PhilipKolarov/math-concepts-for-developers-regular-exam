@@ -95,3 +95,10 @@ CREATE TABLE [Female Deaths by Age Groups](
 	,[80-84] SMALLINT
 	,[Over 84] SMALLINT
 );
+
+CREATE TABLE [Female Mortality](
+	Id INT PRIMARY KEY IDENTITY
+	,[YearId] SMALLINT FOREIGN KEY REFERENCES Years(Id) NOT NULL
+	,[Survival to Age 65 (%)] DECIMAL (4, 2)
+	,[Adult Female Mortality Rate] SMALLINT
+);
