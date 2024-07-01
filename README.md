@@ -5,3 +5,4 @@ Research Question: What is a more accurate replacement fertiltiy rate for Bulgar
 
 References are more adequately layed out in jupyer notebook in bibliography section
 Power BI Visualizations and SQL database included for extra insight.
+Data from NSI of Bulgaria included in according folder.
